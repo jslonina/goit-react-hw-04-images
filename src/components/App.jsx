@@ -27,6 +27,7 @@ const App = () => {
     setInputValue(event.target.value);
   };
 
+  
   const onClickClear = () => {
     setInputValue('');
   };
